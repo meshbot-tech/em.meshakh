@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Front-End+Developer;CRM+Consultant;UI%2FUX+Designer;Turning+ideas+into+impactful+products+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Front-End+Developer;Web+Developer;Digital%Growth+Consultant;B2B+Growth+Lead%Generation+Strategist;Founder@LumiCore.co.ke/kenya;CRM+Consultant;UI%2FUX+Designer;Turning+ideas+into+impactful+products+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -194,6 +194,6 @@ const meshakh = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-*"And He found you lost and guided you."* — Qur'an 93:7
+
 
 </div>
