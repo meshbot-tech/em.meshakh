@@ -35,6 +35,7 @@ const meshakh = {
 | Front-End Development | UI/UX Design | CRM Consultation |
 | Web Development | Responsive Interfaces | Customer Experience Strategy |
 | Component Architecture | Design Systems | Automation & Digital Solutions |
+| Website Propagation  | Domain Registration | DNS Configurartion
 
 ---
 
