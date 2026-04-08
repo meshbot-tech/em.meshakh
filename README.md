@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Front-End+Developer;Web+Developer;DigitalGrowth+Consultant;B2B+Growth+LeadGeneration+Strategist;Founder;LumiCore.co.ke/kenya;Top5KenyaGrowth&LeadGenerationFavikon2025CRM+Consultant;UI%2FUX+Designer;Simplifycomplexity.ScalewithConfidence.+into+impactful+products+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Front-End+Developer;Web+Developer;B2B+Growth+LeadGeneration+Strategist;Founder;LumiCore.co.ke/kenya;CRM+Consultant;Simplifycomplexity.ScalewithConfidence.+into+impactful+products+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
